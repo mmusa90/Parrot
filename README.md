@@ -60,9 +60,15 @@ it will send the first email. If email was different it will store in Array[0] a
 
 So no matter how many duplicates you get it will always send one email.
 
+
 For more information on how to connect emails:
 
 https://gist.github.com/nickoala/569a9d191d088d82a5ef5c03c0690a02
 
+
+HTML2text is a library to convert incoming email from HTML to Text.
+
+
+https://www.linkedin.com/in/mikemusa/
 
 
